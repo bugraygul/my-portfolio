@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
+    url("images/banner.jpg");
+    background-size: cover;
+    height: 90vh;
+    color: white;
+    font-family: 'Audiowide', sans-serif;
+    
+  
+}
+#navbar{
+    background-color: black;
+    border-bottom: 5px solid red;
+    margin: -20px;
+}
+#albert{
+    margin-left: 20px;
+}
+a{
+    float: right;
+    color: white;
+    padding: 15px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+#section{
+    text-align: center;
+}
+#text{
+    margin: 250px  ;
+}
+#header{
+    font-size: 60px;
+}
+#paragraf{
+    font-size: 20px;
+}
+.head{
+    text-align: center;
+}
+.paragf{
+    text-align: center;    
+}
